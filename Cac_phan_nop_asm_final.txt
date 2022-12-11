@@ -1,0 +1,10 @@
+1.xong phân rã chức năng
+2.xong phân công công việc
+3.product,release,sprint
+4.use story
+5.testreport
+6.defectreport
+7.source code sản phẩm 
+8.slide
+9.thái độ làm việc của team (biên bản cuộc họp)
+10. document_final_asm 
